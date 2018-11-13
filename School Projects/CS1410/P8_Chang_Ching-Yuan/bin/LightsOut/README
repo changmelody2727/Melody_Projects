@@ -1,0 +1,9 @@
+Extra Credit
+
+I have added a Click label to count how many clicks does the player use to win the game.
+
+I have added a Level Label to count what level the player is on, each level you completed the next game will be harder.
+The minimum steps to end the game should be more then the one before.
+
+I have also added a clear button, it only works when you are in manual mode. When you clicked this button it clears the
+board.
