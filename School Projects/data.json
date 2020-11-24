@@ -1,32 +1,26 @@
 [
  {
-   "time": "1000",
    "meals": "2",
-   "snack": "1"
+   "snack": "2"
  },
  {
-   "time": "800",
    "meals": "3",
    "snack": "0"
  },
  {
-   "time": "1000",
    "meals": "2",
-   "snack": "1"
+   "snack": "3"
  },
  {
-   "time": "800",
    "meals": "3",
-   "snack": "0"
- },
- {
-   "time": "1200",
-   "meals": "2",
    "snack": "1"
  },
  {
-   "time": "1300",
    "meals": "2",
-   "snack": "0"
+   "snack": "2"
+ },
+ {
+   "meals": "2",
+   "snack": "1"
  }
 ]
